@@ -1,0 +1,23 @@
+
+.container{
+    text-align: center;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 15px;
+    display: inline-block;
+    box-shadow: 5px 5px 5px black;
+    text-align: center;
+    line-height: 100px;
+    vertical-align:top
+}
+
+.box:hover{
+    background-color: blue;
+}
+.box:active{
+    background-color: green;
+}

@@ -1,0 +1,16 @@
+.menu-butten{
+    padding: auto;
+    display: block;
+    height: 50px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 2px 2px 2px black;
+    margin-top: 5%;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+
+}
